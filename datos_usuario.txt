@@ -1,1 +1,2 @@
 Usuario=vagrant
+model name	: AMD Athlon 200GE with Radeon Vega Graphics
