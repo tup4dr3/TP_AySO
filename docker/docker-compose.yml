@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+    web:
+      image: tup4dr3/tp-div_313_grupo_5
+      # integrante1/tp-div_313_grupo_5
+      # integrante2/tp-div_313_grupo_5
+      # integrante3/tp-div_313_grupo_5
+      # integrante4/tp-div_313_grupo_5
+      ports:
+        - "8081:80"
+      volumes:
+        - ./web/file:/usr/share/nginx/html/file
